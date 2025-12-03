@@ -1,0 +1,10 @@
+let str: string = "Hello";
+let num: number = 3.1415926;
+let flag: boolean = true;
+let func = (x: any) => x;
+let obj = { key: 'value' };
+console.log(`typeof ${str}: ${typeof str}`);
+console.log(`typeof ${num}: ${typeof num}`);
+console.log(`typeof ${flag}: ${typeof flag}`);
+console.log(`typeof ${func}: ${typeof func}`);
+console.log(`typeof ${obj}: ${typeof obj}`);

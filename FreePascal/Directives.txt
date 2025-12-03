@@ -1,0 +1,8 @@
+$MODE                 : Set compiler compatibility mode     -M<x> 
+$R or $RANGECHECKS    : Range checking                      -Cr
+$I or $IOCHECKS       : Input/Output checking               -Ci
+$S                    : Stack checking                      -Ct
+$X or $EXTENDEDSYNTAX : Extended syntax                     -Sa1
+$H or $LONGSTRINGS    : Use AnsiStrings                     -Sh
+$COPERATORS           : Allow C like operators              -Sc 
+$MACRO                : Allow use of C macros               -Sm

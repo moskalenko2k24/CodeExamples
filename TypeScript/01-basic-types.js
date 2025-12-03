@@ -1,0 +1,10 @@
+var str = "Hello";
+var num = 3.1415926;
+var flag = true;
+var func = function (x) { return x; };
+var obj = { key: 'value' };
+console.log("typeof " + str + ": " + typeof str);
+console.log("typeof " + num + ": " + typeof num);
+console.log("typeof " + flag + ": " + typeof flag);
+console.log("typeof " + func + ": " + typeof func);
+console.log("typeof " + obj + ": " + typeof obj);
